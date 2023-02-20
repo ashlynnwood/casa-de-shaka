@@ -3,7 +3,7 @@
   ![GitHub-license](https://img.shields.io/badge/License-MIT-blue)
 
   ## Preview
- Coming soon!
+  ![casa-de-shaka-preview](./img/casa-de-shaka-preview.jpeg)
 
   ## Description
   
