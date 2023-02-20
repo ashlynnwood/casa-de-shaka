@@ -212,6 +212,54 @@ p {
   border-color: #f7c08a;
 }
 
+/* About Info */
+#about-info .info-right {
+  float: right;
+  width: 50%;
+  min-height: 100%;
+}
+
+#about-info .info-right img {
+  display: block;
+  margin: auto;
+  width: 70%;
+  border-radius: 50%;
+}
+
+#about-info .info-left {
+  float: left;
+  width: 50%;
+  min-height: 100%;
+}
+
+/* Testimonials */
+#testimonials {
+  height: 100%;
+  background: url('../img/placeholder.jpg') no-repeat center center/cover;
+  padding-top: 100px;
+}
+
+#testimonials h2 {
+  text-align: center;
+  color: #fff;
+  padding-bottom: 40px;
+}
+
+#testimonials .testimonial {
+  padding: 20px;
+  margin-bottom: 40px; 
+  border-radius: 5px;
+  opacity: 0.9;
+
+}
+
+#testimonials .testimonial img {
+  float: left;
+  width: 100px;
+  border-radius: 50%;
+  margin-right: 20px;
+}
+
 /* Footer */
 #main-footer {
   text-align: center;

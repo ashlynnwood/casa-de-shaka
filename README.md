@@ -6,7 +6,7 @@
   ![casa-de-shaka-preview](./img/casa-de-shaka-preview.jpeg)
 
   ## Description
-  
+  I am building a hostel in Jaco, Costa Rica
 
   ## Table of Contents
   * [Installation](#installation)
